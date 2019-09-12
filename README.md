@@ -12,6 +12,6 @@ Please visit my website to check out screenshots and get more details about the 
 
 ## Installation Guide
 1. Download the Swift Playgrounds app from the App Store on your iPad: <a href="https://apps.apple.com/us/app/swift-playgrounds/id908519492">https://apps.apple.com/us/app/swift-playgrounds/id908519492</a>
-1. Download the <i>Recommend.playgroundbook</i>(<a href="">link</a>) playground book file from this repository
+1. Download the <i>Recommend.playgroundbook.zip</i>(<a href="https://github.com/Marton-Zeisler/Recommend/blob/master/Recommend.playgroundbook.zip">link</a>) playground book file from this repository and unzip it
 2. Right click on the file, select share -> AirDrop and select your iPad device to send it over to your device
 3. Open the Swift Playgrounds app on your iPad and you should see the Recommend app listed there
